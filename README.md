@@ -95,7 +95,7 @@ Strategy for Data Synthesis:
 For meta-analysis, the relative complication rates among age groups will be analyzed using odds ratio for the risk of complication relating to the different ages at time of repair. Meta-analysis will be conducted using Cochrane RevMan software. Complication rates among the different age or other categorical variables may be compared using chi-squared analysis. Funnel plots may be used to assess for publication bias.
 
 Analysis of Subgroups:
-Further analysis of complication rate in different age groups comparing the number of bars used for the repair may also be performed, in addition to analysis of the impact of thoracoscopy. 
+Further analysis of complication rate in different age groups comparing the number of bars used for the repair may also be performed. 
 
 REVIEW GENERAL INFORMATION:
 Type of Review: 
