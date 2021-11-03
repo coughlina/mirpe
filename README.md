@@ -77,7 +77,7 @@ Types of Studies to be Included Initially:
 We plan to include original studies reporting on MIRPE that include clear complication and demographic data. We plan to include case series, cohort studies, case-control studies, and randomized controlled trials as relevant. We plan to exclude review articles, letters, editorials, commentaries, or technical descriptions that do not report on complication and demographic data. 
 
 Context:
-MIRPE has been shown to be an effective and safe treatment for pectus excavatum, but initial cohorts were relatively young. The relative rate of complications for older patients and adults undergoing repair is less well-characterized, and the ideal age for repair is uncertain, though likely depends on many individual patient factors.
+MIRPE has been shown to be an effective treatment for pectus excavatum, but initial cohorts were relatively young. The relative rate of complications for older patients and adults undergoing repair is less well-characterized, and the ideal age for repair is uncertain, though likely depends on many individual patient factors.
 
 Primary Outcomes:
 We plan to collect data on the complications reported by the authors of the individual studies, including the rate and types of complications for the different ages undergoing repair.
