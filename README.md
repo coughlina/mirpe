@@ -68,7 +68,7 @@ Participants/Populations:
 The included population will be patients with pectus excavatum who have undergone repair of the defect with minimally invasive or Nuss repair. All ages at repair will be included in our review. 
 
 Interventions
-The study will investigate those undergoing repair via the minimally invasive or Nuss repair technique pioneered by Donald Nuss. The study will exclude those undergoing Nuss repair with another procedure, with significant modifications, or repair of pectus excavatum with another method.
+The study will investigate those undergoing repair via the minimally invasive or Nuss repair technique pioneered by Donald Nuss. The study will exclude those undergoing Nuss repair with another procedure, with significant modifications.
 
 Comparators / Control:
 This study will compare the rates and nature of the complications after repair among different ages undergoing repair.
